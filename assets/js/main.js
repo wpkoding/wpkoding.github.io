@@ -207,4 +207,9 @@
 
 	});
 
+	$('#intro').particleground({
+	    dotColor: 'rgba(255, 255, 255, 0.15)',
+	    lineColor: 'rgba(255, 255, 255, 0.07)'
+	});
+
 })(jQuery);
